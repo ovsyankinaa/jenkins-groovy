@@ -1,2 +1,5 @@
-println "hello world"
-println "string2"
+class App {
+    static void main(String[] args) {
+        println "TEST STRING"
+    }
+}
